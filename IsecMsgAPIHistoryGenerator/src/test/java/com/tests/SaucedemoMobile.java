@@ -56,8 +56,8 @@ public class SaucedemoMobile {
 		caps.setCapability("platformVersion","14.3");
 		caps.setCapability("platformName", "iOS");
 		caps.setCapability("browserName", "Safari");
-		caps.setCapability("username","oauth-flexibplus-bd214");
-		caps.setCapability("accesskey","16c81678-f4d5-4387-bbb2-b61d4c29dad9");
+		caps.setCapability("username","oauth-infotechdemoacc41-81951");
+		caps.setCapability("accesskey","49eeabd4-9db6-42bb-849b-32e10f91b7cc");
 		caps.setCapability("name","SampleTest");
 		caps.setCapability("build", "Build11");
 		//Emusim devices have Simulator/Emulator in the name
